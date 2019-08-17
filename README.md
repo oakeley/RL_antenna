@@ -61,7 +61,7 @@ Does it work? Yes!
 
 ## 2) ADD A WIRELESS CHARGING LOOP
 If you look on the underside of the RL, you will see two holes (labelled "Alt.PWR" on the top side of the RL). These can be used for direct charging of the RL battery. Note carefully the + and -.
-![](http://oakeley.com/wiki/wirelessRL.JPG)
+![](http://oakeley.com/wiki/wirelessRL2.JPG)
 The charging loop has a top and a bottom. The plug will wrap up to the side that should be away from the charger. Note the + and -. These refer to the two outer most wires on a microUSB charger (the cheapest). Cut off the plug and carefully solder the + on the charger to the + on the underside of the RL. Solder the - to the -. It may be easier to use a bridging wire.
 ![](http://oakeley.com/wiki/wirelessSheet.JPG)
 If all goes well you will have something like this. If you place it on a Qi charger the red LED should come on. You may have to move it about to find the best position
