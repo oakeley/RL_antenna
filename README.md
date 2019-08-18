@@ -58,7 +58,17 @@ or for a longer range. Melt a small hole in the box using a soldering iron and h
 ![](http://oakeley.com/wiki/longaerial.JPG)
 
 Does it work? Yes!
-![](http://oakeley.com/wiki/works26.JPG)
+![](http://oakeley.com/wiki/prim_good.JPG)
+
+I put the phone/pi/hacked RL on the side of the bath, put a test pod in the bath stuck to the bottom using insulet pad under pod and started sending 2 unit bolus commands at different depths in open loop mode (via omnipy). Each tested twice with a five minute wait). Number is water depth
+
+0 cm: obviously works
+10 cm: instant response
+20 cm: instant response
+30 cm: delivery took 30 seconds for first attempt, adjusted RL position and second completed after 20 seconds
+40 cm: bolus not received, error 49 on second attempt
+
+Obviously, your mileage may vary but unobstructed error free comms for at least 20cm underwater is a huge improvement.
 
 ## 2) ADD A WIRELESS CHARGING LOOP
 If you look on the underside of the RL, you will see two holes which are labelled "Alt.PWR" on the top side. These can be used for direct charging of the RL battery. Note carefully the + and -.
