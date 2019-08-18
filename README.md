@@ -58,7 +58,7 @@ or for a longer range. Melt a small hole in the box using a soldering iron and h
 ![](http://oakeley.com/wiki/longaerial.JPG)
 
 Does it work? Yes!
-![](http://oakeley.com/wiki/prim_good.JPG)
+![](http://oakeley.com/wiki/prim_good2.JPG)
 
 I put the phone/pi/hacked RL on the side of the bath, put a test pod in the bath stuck to the bottom using insulet pad under pod and started sending 2 unit bolus commands at different depths in open loop mode (via omnipy). Each tested twice with a five minute wait). Number is water depth
 
