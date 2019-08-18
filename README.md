@@ -66,9 +66,10 @@ I put the phone/pi/hacked RL on the side of the bath, put a test pod in the bath
 10 cm: instant response
 20 cm: instant response
 30 cm: delivery took 30 seconds for first attempt, adjusted RL position and second completed after 20 seconds
-40 cm: bolus not received, error 49 on second attempt
+~40 cm: bolus not received, error 49 on second attempt (30cm ruler so exact measurement hard, this is the limit of my bath also!)
 
 Obviously, your mileage may vary but unobstructed error free comms for at least 20cm underwater is a huge improvement.
+![](http://oakeley.com/wiki/bath_test_10cm.JPG)
 
 ## 2) ADD A WIRELESS CHARGING LOOP
 If you look on the underside of the RL, you will see two holes which are labelled "Alt.PWR" on the top side. These can be used for direct charging of the RL battery. Note carefully the + and -.
