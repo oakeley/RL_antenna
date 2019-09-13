@@ -19,7 +19,7 @@ Speed of light is 299'792'458 m/s, pod is 433 MHz which is 433'000'000 waves/s (
 The main issue is that these aerials are rather long so the solution used in the default RL aerial is to take a 1/4 wavelength aerial and wrap it in a tight coil. Unfortunately this coil is very directional in its signal so the risk of data loss is high if the aerial is not pointing at the pod. Bad data quality/signal strength = error 49 pod death and AAPS/SMB can have a lot of chatter with the pod.
 
 I started experimenting using a very thin wire and a hybrid between a helix and a straight antenna.
-![](http://oakeley.com/wiki/prototype_1.JPG). However for water communication, a straight aerial made of thick copper wire is best. Unfortunately, the best length design I am unable to explain as it came from 1) a mistake I made with the maths followed by a day of trial-and-error optimising the winding pattern for the "wrong" length. 2) The observation that with a "correct" length wire it didn't work nearly as well! 
+![](http://oakeley.com/wiki/prototype_1.JPG). Modelling radio interference is complicated but the following design resulted in an 80% stronger signal/longer ranger than the original antenna. 
 
 For this project you will need the following things
 1) Some 1.5mm2 single core mains electrical wire; 2) a 5x90 screw or a small screwdriver wwith a 2mm diameter shaft; 3) some string; 4) a ruler; 5) wire cutters; 6) a potato peeler: 7) some tape; 8) some epoxy resin; 9) a Qi-mobile phone wireless charger; 10) some acetone; 11) a 3D printed case (see below)
